@@ -40,6 +40,7 @@ Built a dynamic, responsive multi-page website using Bootstrap grid and componen
 
 ### 👕 Digital T-shirt Design & Animation
 Designed T-shirt artwork using Inkscape & Photoshop; created simple GIF animations using layered graphics.
+### 👕 And Many more cool projects...
 
 ---
 
